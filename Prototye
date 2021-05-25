@@ -1,0 +1,128 @@
+
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+        <title>
+             PROJECT 001
+        </title>
+    </head>
+    
+<body>
+    <h1>USE OF HEADER IN THE BODY</h1>
+    <hr/>
+    <h2>SUBHEADING</h2>
+    <p>USE OF PARAGRAPH</p>
+    <p>FIRST <b>LINE</b> OF TEXT </p>
+    <span>SECOND <i>LINE</i> OF TEXT</span>
+    <div>LAST LINE OF TEXT</div>
+    <hr/>
+    <p>EINSTEN'S 1<sup>st</sup> EQUATION IS <b>E=MC <sup>2</sup></b> </p>
+    <p>THE MAIN CAUSE OF GLOBAL WARMING IS <b>CO <sub>2</sub> </b> </p>
+    <hr/>
+    <p><b>THE ATMOSPHERE </b> <br/> CONSISTS OF MULTIPLE LAYERS</p>
+    <p>THE FIRST <strong> WORLD WAR </strong >WAS CAUSED BY THE ASSASSINATION OF <q>THE ARCHDUKE <em><b>FERDINAND</b></em> </q></p>
+    <p>THE <b> <q>BIG PICTURE</q> </b> CRIME INVESTIGATIONS ARE USUALLY CARRIED OUT BY THE <abbr title = "FEDERAL BUREAU OF INVESTIGATION">FBI</abbr></p>
+    <p> <abbr title= "SERGEANT">SGT</abbr>.MARK <s>ROGERS</s> <ins>JACOB</ins> DIED IN THE LINE OF DUTY</p>  
+    <address> 
+        <p> THIS IS MY EMAIL IF YOU NEED TO CONTACT ME: </p> <a href="mailto:amir.abba02@gmail.com"> amir.abba02@gmail.com</a> 
+        <p>Glocal University Boys Hostel 2.</p>
+     </address>  
+    <p>PLEASE REFER TO THIS WEBSITE FOR MORE INFORMATION <a href="http://www.wikipedia.org"> Wikipedia</a></p>
+    <p><cite>THE LOST SYMBOL</cite> BY DAN BROWN HAS SOLD OVER HALF A BILLION COPIES WORLDWIDE</p>
+    <p>
+    HERE ARE A FEW CONTRIES LOCATED IN EUROPE;
+    <ul>
+        <li>SPAIN</li>
+        <li>ENGLAND</li>
+        <li>GERMANY</li>
+        <li>FRANCE</li>
+        <li>BELGIUM</li>
+    </ul>
+    </p>
+    <p>
+        THESE ARE SOME OF THE STRONGEST ANIME MAIN CHARACTERS IN MY OPINION
+        <ol>
+            <li>GOKU</li>
+            <img src= "Images/Goku1.jpg" alt="This is a picture of Son Goku in ultra instinct" width="720" height="600" />
+            <li>SAITAMA</li>
+            <li>NARUTO</li>
+            <li>LUFFY</li>
+            <li>ICHIGO</li>
+            <li>NATSU</li>
+        </ol>
+    </p>
+
+    <p>
+        <ins><b>SOME TERMS THAT DEAL WITH NETWORK</b></ins>
+        <dl>
+            <dt>NODE</dt>
+            <dd>This is a point in a circuit where terminals are connected together</dd>
+
+            <dt>JUNCTION</dt>
+            <dd>This is any point in an electrical circuit where two or more branches meet or cross each other</dd>
+
+            <dt>BRANCH</dt>
+            <dd>This is a point in a circuit which extends from one principal node to another</dd>
+    
+        </dl>
+    </p>
+
+    <p>
+        <ins><b>SOME GROUPS ON THE PERIODIC TABLE AND THEIR ELEMENTS</b></ins>
+        <ul>
+            <li>
+                <b>NOBLE GASES</b>
+                <ul>
+                    <i>
+                        <li>Helium</li>
+                        <li>Neon</li>
+                        <li>Argon</li>
+                    </i>    
+                </ul>
+            </li>
+
+            <li>
+                <b>ALKALI METALS</b>
+                <ul>
+                    <i>
+                        <li>Hydrogen</li>
+                        <li>Lithium</li>
+                        <li>Potassium</li>
+                        <li>Calcium</li>
+                    </i>
+                </ul>
+            </li>
+        </ul>
+        
+    </p>
+
+    <p>
+        <ins> <b> THESE ARE SOME OF THE BEST WEBSITES THAT ARE USED TO DOWNLOADING ANIME, TV SHOWS AND/OR MOVIES</b></ins>
+        <ul>
+            <li><a href= "http://www.medeberiyaa.com" target="_blank"><i>AMEER</i></a></li>
+            <li><a href= "http://www.animepahe.com" target="_blank"><i>AnimePahe</i></a></li>
+            <li><a href= "http://www.tfpdl.com" target="_blank"><i>TFPDL</i></a></li>
+            <li><a href= "http://www.tvseriesnmovies.com" target="_blank"><i>TvSeriesNMovies</i></a></li>
+        </ul>
+    </p>
+
+    <p>
+        <ul>
+            <li><a href= "Register.html"><i>SignUp</i></a></li>
+            <li><a href= "index.html"><i>Home</i></a></li>
+            <li><a href= "contact.html"><i>Contact</i></a></li>
+            <li><a href= "about.html"><i>About Us</i></a></li>
+            <li><a href= "index/images.html"><i>Images</i></a></li>
+        </ul>
+    </p>
+
+    
+
+
+
+
+
+
+</body>
+     
+</html>
